@@ -1,0 +1,14 @@
+{
+  "name": "dojo-query",
+  "version": "1.0.0",
+  "description": "DOJO React Query",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Allan Fournier - Aurelien Tahon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
