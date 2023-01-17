@@ -8,7 +8,7 @@ const Exo1 = () => {
   const [isLoading, setLoading] = useState(false);
   const [isError, setError] = useState(false);
   const [data, setData] = useState({ data: [] });
-  const url = "https://catfact.ninja/breeds";
+  const url = "http://localhost:3005/";
 
   useEffect(() => {
     setLoading(true);
